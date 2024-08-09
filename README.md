@@ -12,7 +12,7 @@ The development of drug-target binding affinity (DTA) prediction tasks significa
 
 ## 0. Overview of MFFDTA
 
-![fig1](fig1.png)
+![fig1](fig1.jpeg)
 
 Set up the environment:
 
